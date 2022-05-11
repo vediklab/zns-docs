@@ -5,6 +5,8 @@
 ## Protocol
 
 * [Introduction to Zero Naming Service](protocol/introduction-to-zero-naming-service.md)
+* [Terminology](protocol/terminology.md)
+* [Architecture](protocol/architecture.md)
 
 ## Developers
 
